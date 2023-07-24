@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="ExtremeNumbers.ExtremeNumbers">
+    <Position X="3.25" Y="2.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>ExtremeNumbers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExtremeNumbers.MinimalNumbers">
+    <Position X="8" Y="2.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAIAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MinimalNumbers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExtremeNumbers.ExtremeNumbersResult">
+    <Position X="3.25" Y="5.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>ExtremeNumbers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExtremeNumbers.MinimalNumbersResult">
+    <Position X="8" Y="5.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>MinimalNumbers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
